@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saveurs Nomades</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styleModal.css">
+    <link rel="icon" type="image/png" href="Ressources/favicon.png">
+
+    <script src="uiManager.js"></script>
+    <script src="filterAndSearch.js"></script>
+    <script src="dataLoader.js"></script>
+
+</head>
+<body>
+    <header id="header">
+        <h1>SAVEURS NOMADES</h1>
+    </header>
+    <section id="filter">
+        <form>
+            <input type="text" id="searchInput" placeholder="Rechercher une recette...">
+            <select id="countryFilter">
+                <option value="">Tous les pays</option>
+                <option value="Argentine">Argentine</option>
+                <option value="Belgique">Belgique</option>
+                <option value="Corée du Sud">Corée du Sud</option>
+                <option value="Espagne">Espagne</option>
+                <option value="États-Unis">États-Unis</option>
+                <option value="Grèce">Grèce</option>
+                <option value="hongrie">hongrie</option>
+                <option value="Inde">Inde</option>
+                <option value="Italie">Italie</option>
+                <option value="Japon">Japon</option>
+                <option value="Liban">Liban</option>
+                <option value="Maroc">Maroc</option>
+                <option value="Mexique">Mexique</option>
+                <option value="Norvege">Norvège</option>
+                <option value="Pérou">Pérou</option>
+                <option value="Pologne">Pologne</option>
+                <option value="Portugal">Portugal</option>
+                <option value="Thaïlande">Thaïlande</option>
+                <option value="Turquie">Turquie</option>
+                <option value="Vietnam">Vietnam</option>
+            </select>
+            <select id="categoryFilter">
+                <option value="">Toutes les catégories</option>
+                <option value="Entrée">Entrée</option>
+                <option value="Plat">Plat</option>
+                <option value="Dessert">Dessert</option>
+            </select>
+            <select id="underCategoryFilter">
+                <option value="">Toutes les sous-catégories</option>
+                <option value="Végétarien">Végétarien</option>
+                <option value="Vegan">Viande</option>
+                <option value="Sans gluten">Poisson</option>                
+            </select>
+            <select id="difficultyFilter">
+                <option value="">Toutes les difficultés</option>
+                <option value="Facile">Facile</option>
+                <option value="Moyen">Moyen</option>
+                <option value="Difficile">Difficile</option>
+            </select>
+        </form>
+    </section>
+    <section id="recipes">
+        <div id="recipesContainer">
+        </div>
+    </section>
+    <footer>
+
+    </footer>
+</body>
+</html>

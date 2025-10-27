@@ -1,0 +1,619 @@
+[
+  {
+    "id": 1,
+    "categorie": "Entrée",
+    "sous-categorie": "Poisson",
+    "nomRecette": "Ceviche Classique",
+    "pays": "Pérou",
+    "description": "Poisson cru mariné dans du jus de citron vert (leche de tigre), oignon rouge, coriandre et piment.",
+    "difficulté": "Facile",
+    "ingrédients": [
+      "400 g de poisson blanc très frais (cabillaud, dorade, etc.)",
+      "Jus de 3 citrons verts",
+      "1/2 oignon rouge émincé",
+      "Quelques brins de coriandre fraîche",
+      "1 gousse d'ail",
+      "10 g de gingembre",
+      "Piment (ou Tabasco/ají)",
+      "Sel, poivre"
+    ],
+    "préparation": "Couper le poisson en dés et le laisser au frais. Préparer la marinade (Leche de Tigre) avec le jus des citrons, le zeste, l'ail et le gingembre râpé. Verser la marinade sur le poisson et laisser 'cuire' (mariner) pendant 10 à 30 minutes au frais. Ajouter la coriandre hachée et l'oignon rouge émincé avant de servir. Classiquement servi avec de la patate douce et du maïs grillé (cancha).",
+    "photo": "images/Ceviche-Classique.webp"
+  },
+  {
+    "id": 2,
+    "categorie": "Entrée",
+    "sous-categorie": "Végétarien",
+    "nomRecette": "Taboulé (Salade de persil)",
+    "pays": "Liban",
+    "description": "Salade fraîche à base de persil plat finement haché, de tomates, de menthe, de boulgour et assaisonnée au citron.",
+    "difficulté": "Facile",
+    "ingrédients": [
+      "2 bottes de persil plat (env. 300g)",
+      "3 tomates bien mûres",
+      "1/2 oignon blanc",
+      "Menthe fraîche (une bonne poignée)",
+      "50 g de boulgour fin (semoule de blé concassé)",
+      "Jus de 2-3 citrons",
+      "Huile d'olive extra vierge",
+      "Sel, poivre"
+    ],
+    "préparation": "Laver et hacher très finement le persil plat et la menthe. Couper les tomates et l'oignon en petits dés. Mettre le boulgour dans un saladier avec le jus de citron, et laisser gonfler 15 minutes. Ajouter le persil, la menthe, les tomates et l'oignon. Assaisonner généreusement d'huile d'olive, de sel et de poivre. Laisser reposer au frais 1 heure avant de servir.",
+    "photo": "images/Taboulé-Libanais.webp"
+  },
+  {
+    "id": 3,
+    "categorie": "Entrée",
+    "sous-categorie": "Végétarien",
+    "nomRecette": "Tzatziki",
+    "pays": "Grèce",
+    "description": "Sauce fraîche à base de yaourt grec, concombre râpé, ail et huile d'olive.",
+    "difficulté": "Très facile",
+    "ingrédients": [
+      "500 g de yaourt grec nature (10% de matière grasse)",
+      "1 concombre",
+      "1-2 gousses d'ail (selon le goût)",
+      "2 cuillères à soupe d'huile d'olive",
+      "1 cuillère à café de vinaigre de vin blanc (facultatif)",
+      "Aneth ou menthe fraîche (selon le goût)",
+      "Sel, poivre"
+    ],
+    "préparation": "Râper le concombre, le saler légèrement et le laisser dégorger (perdre son eau) dans une passoire pendant 15 minutes. Presser le concombre avec les mains pour enlever l'excès d'eau. Dans un bol, mélanger le yaourt grec, le concombre égoutté, l'ail haché (ou pressé), l'huile d'olive et le vinaigre. Assaisonner de sel et de poivre. Ajouter l'aneth ou la menthe hachée. Réserver au frais au moins 1 heure pour que les saveurs se mélangent.",
+    "photo": "images/Tzatziki.webp"
+  },
+  {
+    "id": 4,
+    "categorie": "Entrée",
+    "sous-categorie": "Poisson",
+    "nomRecette": "Rouleaux de Printemps Frais",
+    "pays": "Thaïlande",
+    "description": "Feuilles de riz garnies de vermicelles, de crevettes, de menthe et de légumes frais (non frits).",
+    "difficulté": "Facile",
+    "ingrédients": [
+      "8-10 galettes de riz (feuilles de riz)",
+      "20 crevettes cuites et décortiquées",
+      "50 g de vermicelles de riz",
+      "Feuilles de salade (laitue ou batavia)",
+      "Menthe fraîche",
+      "Coriandre fraîche",
+      "Légumes coupés en julienne (carotte, concombre, poivron)",
+      "Sauce Nuoc Cham pour accompagner"
+    ],
+    "préparation": "Faire cuire les vermicelles de riz selon les instructions du paquet, les égoutter et les refroidir à l'eau froide. Couper les crevettes en deux dans la longueur. Tremper une galette de riz dans de l'eau tiède pendant quelques secondes pour la ramollir. Déposer la galette sur un torchon humide ou un plan de travail lisse. Disposer sur la moitié inférieure de la galette, dans l'ordre: salade, légumes, vermicelles, herbes et enfin les morceaux de crevettes (côté rouge vers l'extérieur). Rabattre les bords de la galette vers le centre, puis rouler fermement de bas en haut. Servir avec de la sauce Nuoc Cham ou une sauce aux arachides.",
+    "photo": "images/Rouleaux-de-printemps.webp"
+  },
+  {
+    "id": 5,
+    "categorie": "Entrée",
+    "sous-categorie": "Végétarien",
+    "nomRecette": "Bruschetta Tomate & Basilic",
+    "pays": "Italie",
+    "description": "Tranches de pain grillé frottées à l'ail, garnies de tomates concassées, de basilic frais et d'un filet d'huile d'olive.",
+    "difficulté": "Très facile",
+    "ingrédients": [
+      "1 baguette de pain (ou pain de campagne)",
+      "3 tomates bien mûres (variété Roma ou Cœur de bœuf)",
+      "1 gousse d'ail",
+      "Quelques feuilles de basilic frais",
+      "Huile d'olive extra vierge",
+      "Sel et poivre"
+    ],
+    "préparation": "Préchauffer le four à 180°C. Couper le pain en tranches d'environ 1-2 cm d'épaisseur. Les badigeonner d'huile d'olive et les faire griller au four (ou au grille-pain) jusqu'à ce qu'elles soient dorées. Pendant ce temps, couper les tomates en petits dés et les mélanger avec le basilic ciselé, l'huile d'olive, le sel et le poivre. Sortir les tranches de pain grillé, les frotter avec la gousse d'ail épluchée. Garnir chaque tranche avec le mélange de tomates. Servir immédiatement.",
+    "photo": "images/Bruschetta-tomates-basilic.webp"
+  },
+  {
+    "id": 6,
+    "categorie": "Entrée",
+    "sous-categorie": "Végétarien",
+    "nomRecette": "Samosas aux Légumes",
+    "pays": "Inde",
+    "description": "Petits chaussons frits (ou cuits au four) farcis d'une farce épicée à base de pommes de terre, petits pois et épices indiennes.",
+    "difficulté": "Moyen",
+    "ingrédients": [
+      "Pour la pâte : 250 g de farine de blé, 50 g de ghee (beurre clarifié) ou huile, eau, sel.",
+      "Pour la farce : 300 g de pommes de terre cuites et écrasées, 50 g de petits pois, 1 oignon haché, 1 c. à café de graines de cumin, 1 c. à café de coriandre en poudre, 1 c. à café de curcuma, gingembre râpé, feuilles de coriandre fraîche, piment vert haché (facultatif), sel.",
+      "Huile pour la friture (ou badigeonner pour la cuisson au four)."
+    ],
+    "préparation": "Préparer la pâte : mélanger la farine, le sel et le ghee, puis ajouter l'eau pour former une pâte ferme. Laisser reposer. Préparer la farce : faire revenir l'oignon et les épices (cumin, coriandre, curcuma, gingembre) dans une poêle. Ajouter les petits pois et les pommes de terre écrasées. Bien mélanger et ajouter le sel et la coriandre fraîche. Étaler la pâte et la couper en disques. Couper chaque disque en deux (demi-cercle). Former un cône, le remplir de farce, mouiller les bords et le sceller pour former un triangle. Frire les samosas à feu moyen jusqu'à ce qu'ils soient dorés et croustillants. (Pour une option plus saine : cuire au four à 180°C).",
+    "photo": "images/Samossas-aux-legumes.webp"
+  },
+  {
+    "id": 7,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Viande",
+    "nomRecette": "Tajine de Poulet aux Citrons Confits et Olives",
+    "pays": "Maroc",
+    "description": "Mijoté de poulet cuit lentement dans un plat en terre (tajine) avec des citrons confits, des olives et du safran.",
+    "difficulté": "Facile",
+    "ingrédients": [
+      "8 morceaux de poulet (pilons, cuisses ou blancs)",
+      "1 oignon émincé",
+      "2 gousses d'ail hachées",
+      "1 citron confit (chair et écorce séparées)",
+      "150 g d'olives vertes (dénoyautées)",
+      "Épices : gingembre, curcuma, safran, cumin",
+      "Coriandre et persil hachés",
+      "Huile d'olive",
+      "Sel et poivre"
+    ],
+    "préparation": "Dans le plat à tajine (ou une cocotte), faire dorer les morceaux de poulet dans l'huile d'olive. Retirer le poulet et faire revenir l'oignon et l'ail. Remettre le poulet. Ajouter toutes les épices (safran, curcuma, gingembre, etc.), la chair du citron confit, la coriandre et le persil hachés. Mouiller avec un peu d'eau ou de bouillon. Couvrir et laisser mijoter à feu très doux pendant 45 minutes à 1 heure (le poulet doit être très tendre). Ajouter les olives et les quartiers d'écorce de citron confit (rincée) pour les 10 dernières minutes. Servir très chaud.",
+    "photo": "images/Tajine-poulet-citrons-confits-olives.webp"
+  },
+  {
+    "id": 8,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Viande",
+    "nomRecette": "Bigos (Choucroute du chasseur)",
+    "pays": "Pologne",
+    "description": "Plat national polonais à base de chou fermenté (choucroute), de divers types de viandes (souvent porc et saucisse).",
+    "difficulté": "Moyenne",
+    "ingrédients": [
+      "500 g de choucroute crue",
+      "300 g de chou blanc",
+      "200 g de porc (échine ou ragoût)",
+      "200 g de saucisse fumée (type Montbéliard)",
+      "100 g de lard fumé",
+      "1 oignon émincé",
+      "20 g de champignons séchés (cèpes)",
+      "5 pruneaux dénoyautés",
+      "1 C. à S. de concentré de tomate",
+      "500 ml de bouillon de légumes ou d'eau",
+      "2 feuilles de laurier, 1 C. à C. de baies de genièvre, Huile, Sel, Poivre"
+    ],
+    "préparation": "Faire réhydrater les champignons séchés. Rincer la choucroute et couper le chou blanc. Couper les viandes et le lard en morceaux. Dans une grande marmite, faire revenir le lard et l'oignon. Ajouter les autres viandes et dorer. Ajouter les choux, les champignons hachés et leur eau de trempage filtrée, les pruneaux, le concentré de tomate, le bouillon et les épices. Mélanger. Laisser mijoter à feu très doux et à couvert pendant 2 heures minimum. Le Bigos est traditionnellement meilleur réchauffé les jours suivants.",
+    "photo": "images/Bigos.webp"
+  },
+  {
+    "id": 9,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Viande",
+    "nomRecette": "Pulled Pork Barbecue (Low & Slow)",
+    "pays": "États-Unis",
+    "description": "Épaule de porc effilochée, cuite très lentement et arrosée de sauce barbecue sucrée et fumée.",
+    "difficulté": "Difficile",
+    "ingrédients": [
+      "**Pour le Porc** : 2 kg d'épaule de porc (Boston Butt ou échine)",
+      "**Pour le Rub** : 4 C. à S. de Rub (paprika fumé, sucre roux, sel, poivre, ail/oignon en poudre), 2 C. à S. de moutarde jaune",
+      "**Pour la Mop** : 150 ml de vinaigre de cidre, 150 ml de jus de pomme",
+      "**Pour la Sauce BBQ** : 300 ml de Ketchup, 100 ml de vinaigre de cidre, 3 C. à S. de sucre roux, 2 C. à S. de miel/sirop d'érable, 1 C. à C. de sauce Worcestershire"
+    ],
+    "préparation": "**Préparation :** Badigeonner le porc de moutarde puis frotter avec le Rub. Laisser mariner une nuit. **Cuisson :** Cuire au barbecue/fumoir fermé à 110°C indirectement pendant 8 à 12 heures, jusqu'à ce que la température interne atteigne 92°C. Vaporiser le mélange jus de pomme/vinaigre régulièrement. Envelopper la viande dans du papier boucher ou aluminium à 70°C. **Effilochage :** Laisser reposer 1h puis effilocher la viande à l'aide de fourchettes. Mélanger la viande effilochée avec la sauce BBQ maison.",
+    "photo": "images/Pulled-Pork.webp"
+  },
+  {
+    "id": 10,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Viande",
+    "nomRecette": "Katsudon",
+    "pays": "Japon",
+    "description": "Plat de riz servi dans un bol et surmonté d'une escalope de porc panée (Tonkatsu) et d'un œuf cuit dans une sauce salée-sucrée.",
+    "difficulté": "Moyenne",
+    "ingrédients": [
+      "2 côtes de porc désossées (ou filet), 4 œufs (2 pour paner, 2 pour la liaison)",
+      "Chapelure Panko, Farine, Huile de friture",
+      "2 bols de riz à sushi cuit",
+      "**Pour la Sauce** : 1 oignon émincé, 200 ml de bouillon Dashi, 2 C. à S. de sauce soja, 2 C. à S. de Mirin, 1 C. à S. de sucre"
+    ],
+    "préparation": "**Tonkatsu :** Aplatir la viande. Saler et poivrer. Paner (farine, œuf battu, Panko). Frire 4-5 min jusqu'à croustillant. Couper en larges tranches. **Mijotage :** Dans une poêle individuelle, faire bouillir l'oignon émincé avec le Dashi, la sauce soja, le Mirin et le sucre. Ajouter les tranches de Tonkatsu. Verser l'œuf battu (pour la liaison) par-dessus. Couvrir 1 minute jusqu'à ce que l'œuf soit mi-cuit. Glisser le contenu de la poêle sur un bol de riz chaud.",
+    "photo": "images/Katsudon.webp"
+  },
+  {
+    "id": 11,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Viande",
+    "nomRecette": "Tacos al Pastor",
+    "pays": "Mexique",
+    "description": "Fines tranches de porc mariné et grillé, servies dans des tortillas de maïs avec de l'ananas, de la coriandre et de l'oignon.",
+    "difficulté": "Moyen",
+    "ingrédients": [
+      "500 g d'épaule de porc (coupée en tranches très fines)",
+      "Pour la marinade : piments Ancho et Guajillo (trempés et mixés), pâte d'Achiote (roucou), vinaigre, ail, cumin, origan, jus d'ananas.",
+      "12 tortillas de maïs (petites)",
+      "Garniture : ananas frais (coupé en dés), oignon blanc émincé, coriandre fraîche hachée, quartiers de citron vert, sauce piquante (facultatif)."
+    ],
+    "préparation": "Préparer la marinade en mixant les piments, l'Achiote, les épices, l'ail et le jus d'ananas (la marinade doit être épaisse). Faire mariner les tranches de porc (idéalement 4 à 12 heures). Traditionnellement, les tranches de porc sont empilées et rôties à la verticale sur une broche (comme un kebab). À la maison, faire griller les tranches à plat sur une plancha ou dans une poêle très chaude. Couper la viande en petits morceaux. Réchauffer les tortillas. Remplir les tortillas de viande, garnir d'oignon blanc, de coriandre et de dés d'ananas. Servir avec un quartier de citron vert.",
+    "photo": "images/Tacos-Al-Pastor.webp"
+  },
+  {
+    "id": 12,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Viande",
+    "nomRecette": "Ossobuco à la Milanaise",
+    "pays": "Italie",
+    "description": "Ragoût de jarret de veau braisé à feu doux dans un bouillon de vin blanc et de tomates, servi avec une gremolata.",
+    "difficulté": "Difficile",
+    "ingrédients": [
+      "4 morceaux d'ossobuco (jarret de veau avec os)",
+      "50 g de beurre",
+      "50 g de farine",
+      "20 cl de vin blanc sec",
+      "500 g de tomates concassées",
+      "1 oignon, 2 carottes, 1 branche de céleri (coupés en dés pour la mirepoix)",
+      "Bouillon de veau ou de bœuf",
+      "Pour la Gremolata : zeste d'un citron, 1 gousse d'ail, persil plat haché."
+    ],
+    "préparation": "Fariner légèrement l'ossobuco. Dans une cocotte, faire dorer la viande dans le beurre, puis la retirer. Faire revenir la mirepoix (oignon, carotte, céleri) jusqu'à ce qu'elle soit tendre. Remettre la viande. Déglacer avec le vin blanc. Ajouter les tomates concassées et le bouillon de veau jusqu'à couvrir la viande. Couvrir et laisser mijoter à feu très doux pendant 1h30 à 2h (la viande doit se détacher facilement). Pendant ce temps, préparer la gremolata en mélangeant le zeste de citron, l'ail et le persil haché. Servir l'ossobuco très chaud, nappé de sauce, et saupoudré généreusement de gremolata. Classiquement servi avec du risotto à la milanaise (avec safran).",
+    "photo": "images/Osso-Buco-Milanaise.webp"
+  },
+  {
+    "id": 13,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Viande",
+    "nomRecette": "Goulash",
+    "pays": "Hongrie",
+    "description": "Soupe ou ragoût épais de bœuf (ou veau) richement parfumé au paprika.",
+    "difficulté": "Moyenne",
+    "ingrédients": [
+      "1 kg de bœuf (paleron ou gîte) coupé en cubes",
+      "500 g d'oignons émincés",
+      "3 gousses d'ail hachées",
+      "500 g de tomates concassées",
+      "1 L de bouillon de bœuf",
+      "3 C. à S. de Paprika (doux ou fumé)",
+      "2 C. à S. de concentré de tomate",
+      "700 g de pommes de terre (fermes) coupées en gros morceaux",
+      "Huile ou saindoux",
+      "Sel, Poivre, 1 bouquet garni"
+    ],
+    "préparation": "Couper le bœuf en cubes. Dans une cocotte, faire chauffer l'huile/saindoux et saisir la viande. Ajouter les oignons et faire suer jusqu'à coloration. Incorporer le paprika, le concentré de tomate, l'ail haché, les tomates concassées, le bouillon et le bouquet garni. Saler et poivrer. Porter à ébullition puis laisser mijoter à couvert 1h30. Ajouter les pommes de terre et continuer la cuisson 30 min, jusqu'à ce que la viande et les pommes de terre soient tendres. Servir très chaud.",
+    "photo": "images/Goulasch-Hongrois.webp"
+  },
+  {
+    "id": 14,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Viande",
+    "nomRecette": "Moussaka",
+    "pays": "Grèce",
+    "description": "Plat traditionnel composé de couches d'aubergines, de viande hachée (agneau ou bœuf) et de sauce béchamel, le tout gratiné au four.",
+    "difficulté": "Moyen",
+    "ingrédients": [
+      "4-5 aubergines coupées en tranches fines",
+      "500-600 g de viande hachée (agneau ou bœuf)",
+      "1 oignon haché, 2 gousses d'ail hachées",
+      "400 g de tomates concassées",
+      "Épices : Origan, Cannelle, Sel, Poivre",
+      "Pour la Béchamel : 50 g de beurre, 50 g de farine, 500 ml de lait, noix de muscade, sel, poivre",
+      "Fromage râpé (pour gratiner)"
+    ],
+    "préparation": "Couper les aubergines en tranches, les saler et les faire cuire au four (ou à la poêle) avec de l'huile d'olive jusqu'à ce qu'elles soient tendres. Réserver. Préparer la sauce à la viande : faire revenir l'oignon et l'ail, ajouter la viande hachée et cuire. Incorporer les tomates, l'origan et la cannelle, laisser mijoter 15 minutes. Préparer la béchamel (faire un roux avec beurre/farine, ajouter le lait, assaisonner). Monter la moussaka dans un plat à gratin : une couche d'aubergines, une couche de viande, une couche de béchamel. Répéter et terminer par une couche d'aubergines et de béchamel. Saupoudrer de fromage. Cuire au four à 180°C pendant 30 minutes jusqu'à ce que le dessus soit doré. Laisser reposer quelques minutes avant de servir.",
+    "photo": "images/moussaka.webp"
+  },
+
+  {
+    "id": 15,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Viande",
+    "nomRecette": "Chimichurri et Bœuf Grillé",
+    "pays": "Argentine",
+    "description": "Bœuf grillé (style Asado) servi avec la célèbre sauce Chimichurri (persil, origan, ail, vinaigre, piment).",
+    "difficulté": "Facile",
+    "ingrédients": [
+      "**Pour le Bœuf** : 600 g de steak de bœuf épais (rumsteck, contre-filet, pavé), Huile d'olive, Sel, Poivre",
+      "**Pour le Chimichurri** : 1/2 botte de persil plat (finement haché), 4 C. à S. de vinaigre de vin rouge, 3 gousses d'ail (hachées), 1 C. à C. d'origan séché, 1/2 C. à C. de piment rouge (flocons ou frais émincé), 8 C. à S. d'huile d'olive extra-vierge, Sel, Poivre"
+    ],
+    "préparation": "**Chimichurri :** Dans un bol, mélanger le persil, l'ail, l'origan, le piment, le sel et le poivre. Ajouter le vinaigre de vin rouge et l'huile d'olive. Bien mélanger et laisser reposer à température ambiante 15 minutes pour que les saveurs se développent. **Bœuf :** Badigeonner légèrement le bœuf d'huile. Saler et poivrer. Faire griller 3 à 4 minutes par face pour une cuisson saignante/moyenne. Laisser reposer 5 minutes, couper la viande en tranches et la napper de sauce Chimichurri.",
+    "photo": "images/Boeuf-Chimichurri.webp"
+  },
+  {
+    "id": 16,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Viande",
+    "nomRecette": "Bulgogi (Bœuf Mariné Grillé)",
+    "pays": "Corée du Sud",
+    "description": "Plat de bœuf (contre-filet ou basse côte) coupé très finement, mariné dans une sauce sucrée-salée et grillé.",
+    "difficulté": "Facile",
+    "ingrédients": [
+      "500 g de bœuf (contre-filet, basse côte) coupé en très fines tranches",
+      "Marinade : 5 c. à soupe de sauce soja, 2 c. à soupe de cassonade/sucre, 2 c. à soupe d'huile de sésame grillée, 1 poire (râpée) ou jus, 2 gousses d'ail (émincées), 1 cm de gingembre (râpé)",
+      "Garniture : oignons de printemps (ciboule) hachés, graines de sésame grillées"
+    ],
+    "préparation": "Couper le bœuf en très fines tranches. Préparer la marinade en mélangeant tous les ingrédients (mixer si besoin la poire, l'oignon, l'ail et le gingembre, puis ajouter le reste). Faire mariner la viande pendant au moins 2 heures (idéalement 4-12 heures au réfrigérateur). Faire chauffer de l'huile dans une poêle antiadhésive ou un gril à feu vif. Faire revenir les tranches de bœuf très rapidement (1-2 minutes de chaque côté). Servir immédiatement la viande chaude, garnie d'oignons de printemps et de graines de sésame grillées, traditionnellement avec du riz blanc vapeur et du kimchi.",
+    "photo": "images/Bulgogi-Boeuf.webp"
+  },
+  {
+    "id": 17,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Poisson",
+    "nomRecette": "Paella aux Fruits de Mer",
+    "pays": "Espagne",
+    "description": "Plat de riz safrané cuit dans une large poêle (paellera) avec un mélange de fruits de mer, de légumes et d'épices.",
+    "difficulté": "Moyen",
+    "ingrédients": [
+      "250-300 g de riz rond (riz à paella)",
+      "1 L de bouillon de poisson chaud",
+      "500 g de fruits de mer variés (moules, crevettes/gambas, calamar ou seiche, lotte)",
+      "Légumes : 1 oignon, 1 poivron rouge, 1 gousse d'ail, 1 tomate (râpée ou concassée), petits pois (facultatif)",
+      "Épices : quelques filaments de Safran, Paprika doux (ou de la Vera)",
+      "Huile d'olive extra vierge, sel, poivre"
+    ],
+    "préparation": "Dans une paellera, faire revenir l'oignon, l'ail et les poivrons dans l'huile d'olive. Ajouter la tomate râpée et le paprika, faire revenir. Ajouter les morceaux de poisson et de calamar, cuire quelques minutes. Ajouter le riz et mélanger pendant 2 minutes pour l'enrober. Verser le bouillon de poisson chaud et le safran. Porter à ébullition et laisser cuire à feu vif pendant 10 minutes. Réduire le feu et ajouter les moules et les crevettes, en les enfonçant légèrement. Laisser mijoter encore 10-15 minutes, sans remuer. Le riz doit être presque sec et tendre. Servir chaud, garni de quartiers de citron.",
+    "photo": "images/Paella-Aux-Fruits-De-Mer.webp"
+  },
+  {
+    "id": 18,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Poisson",
+    "nomRecette": "Chirashi Sushi",
+    "pays": "Japon",
+    "description": "Assortiment de poissons crus tranchés et d'autres garnitures sur un lit de riz vinaigré.",
+    "difficulté": "Moyenne",
+    "ingrédients": [
+      "**Riz Vinaigré** : 200 g de riz à sushi, 3 C. à S. de vinaigre de riz, 1 C. à S. de sucre, 1/2 C. à C. de sel",
+      "**Garniture** : 200 g de poisson cru très frais (saumon, thon) tranché (sashimi), 4 crevettes cuites, 1/2 concombre (tranché), 1 avocat (tranché), 2 C. à S. d'œufs de saumon (Ikura), Omelette japonaise (Tamagoyaki, coupée en lanières)",
+      "Graines de sésame, Gingembre mariné, Wasabi et Sauce soja (pour servir)"
+    ],
+    "préparation": "**Riz :** Rincer et cuire le riz. Chauffer l'assaisonnement (vinaigre, sucre, sel) pour dissoudre le sucre. Ajouter l'assaisonnement au riz chaud et mélanger délicatement pour refroidir. **Assemblage :** Mettre le riz vinaigré dans un bol. Disposer harmonieusement toutes les garnitures (poisson cru, crevettes, légumes, omelette, œufs de saumon) sur le dessus. Saupoudrer de graines de sésame et servir immédiatement avec la sauce soja et le wasabi.",
+    "photo": "images/Chirashi-Sushi.webp"
+  },
+  {
+    "id": 19,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Poisson",
+    "nomRecette": "Saumon Grillé à la Scandi",
+    "pays": "Norvege",
+    "description": "Filet de saumon simplement grillé à la plancha ou au four, assaisonné d'aneth et servi avec du citron.",
+    "difficulté": "Facile",
+    "ingrédients": [
+      "4 pavés de saumon (environ 150-200g chacun)",
+      "Huile d'olive",
+      "Sel, Poivre noir moulu",
+      "Quelques brins d'aneth frais (ou de persil)",
+      "Tranches ou quartiers de citron"
+    ],
+    "préparation": "Sortir le saumon du réfrigérateur et l'assaisonner généreusement de sel, de poivre et d'herbes fraîches. Préchauffer une plancha ou une poêle à griller à feu moyen-élevé et huiler légèrement. Placer les pavés de saumon sur la plancha et cuire 3 à 5 minutes de chaque côté (selon l'épaisseur), sans les retourner plus d'une fois. Le poisson est cuit lorsqu'il est bien doré à l'extérieur et encore légèrement rosé au centre. Servir immédiatement avec les tranches de citron grillées et l'aneth frais.",
+    "photo": "images/Saumon-Grille-a-la-Scandi.webp"
+  },
+  {
+    "id": 20,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Poisson",
+    "nomRecette": "Bacalhau à Brás",
+    "pays": "Portugal",
+    "description": "Plat traditionnel portugais à base de morue (bacalhau) effilochée, de pommes de terre frites en allumettes, d'oignons et d'œufs brouillés.",
+    "difficulté": "Facile",
+    "ingrédients": [
+      "500 g de morue salée (dessalée la veille) ou de cabillaud frais",
+      "500 g de pommes de terre (coupées en frites allumettes ou chips)",
+      "2 gros oignons émincés",
+      "2-3 gousses d'ail",
+      "6 œufs battus",
+      "Huile d'olive, sel, poivre",
+      "Garniture : Olives noires, persil plat haché"
+    ],
+    "préparation": "Faire dessaler la morue (la veille) ou pocher le cabillaud, puis l'effilocher. Couper les pommes de terre en fines allumettes et les faire frire (elles doivent être légèrement croustillantes). Dans une grande poêle, faire revenir l'oignon et l'ail dans l'huile d'olive. Ajouter la morue effilochée et faire dorer 5 minutes. Ajouter les allumettes de pommes de terre frites et mélanger. Verser les œufs battus, mélanger rapidement et cuire à feu très doux pendant seulement 1 minute (les œufs doivent rester baveux/crémeux). Servir immédiatement, garni d'olives noires et de persil plat ciselé.",
+    "photo": "images/Bacalhau-a-Bras.webp"
+  },
+  {
+    "id": 21,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Poisson",
+    "nomRecette": "Moules Marinières",
+    "pays": "Belgique",
+    "description": "Moules cuites à la vapeur avec du vin blanc, de l'échalote, du beurre et du persil, souvent servies avec des frites.",
+    "difficulté": "Facile",
+    "ingrédients": [
+      "1,5 - 2 kg de moules fraîches",
+      "2 échalotes (émincées)",
+      "2 gousses d'ail (hachées)",
+      "25 cl de vin blanc sec (Muscadet, Sauvignon)",
+      "30 g de beurre",
+      "1/2 botte de persil frais",
+      "Poivre (pas de sel nécessaire)"
+    ],
+    "préparation": "Nettoyer les moules et retirer le byssus. Dans une grande cocotte ou marmite, faire fondre le beurre et faire revenir les échalotes et l'ail jusqu'à transparence. Verser le vin blanc sec et le poivre, laisser mijoter quelques instants. Ajouter les moules, couvrir et cuire à feu vif pendant 5 à 8 minutes, en remuant de temps en temps (les moules sont prêtes lorsqu'elles sont toutes ouvertes). Parsemer de persil frais haché et servir immédiatement dans la cocotte de cuisson, traditionnellement avec des frites.",
+    "photo": "images/Moules-Marinieres.webp"
+  },
+  {
+    "id": 22,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Poisson",
+    "nomRecette": "Cá Kho Tộ (Poisson Caramélisé)",
+    "pays": "Vietnam",
+    "description": "Poisson cuit lentement dans une sauce au caramel de poisson, servis dans un pot en terre cuite.",
+    "difficulté": "Moyen",
+    "ingrédients": [
+      "600 g de poisson (cabillaud, poisson-chat ou saumon) coupé en tronçons de 2 cm",
+      "2 c. à soupe de sucre (pour le caramel)",
+      "2 c. à soupe d'huile végétale",
+      "3 c. à soupe de Nuoc Mam (saumure de poisson)",
+      "2 échalotes, 3 gousses d'ail (hachés)",
+      "300 ml d'eau ou d'eau de coco (pas de lait de coco)",
+      "Facultatif : 1 petit piment oiseau, lardons de poitrine de porc",
+      "Garniture : ciboulette chinoise ou oignon vert ciselé, poivre noir"
+    ],
+    "préparation": "Nettoyer et couper le poisson, le faire mariner avec une partie de l'ail, de l'échalote, du sel et du Nuoc Mam (1h). Dans un pot en terre cuite (Tô) ou une marmite, faire fondre le sucre avec l'huile à feu vif pour créer un caramel doré. Ajouter le reste de l'échalote et de l'ail (et les lardons si utilisés) et faire revenir rapidement. Ajouter le poisson avec sa marinade. Verser l'eau (ou l'eau de coco). Amener à ébullition, puis baisser à feu doux et laisser mijoter 20 à 30 minutes jusqu'à ce que la sauce épaississe. Poivrer généreusement et ajouter la ciboulette ciselée avant de servir avec du riz jasmin.",
+    "photo": "images/Cá-Kho-Tộ.webp"
+  },
+  {
+    "id": 23,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Végétarien",
+    "nomRecette": "Dal Makhani (Végétarien)",
+    "pays": "Inde",
+    "description": "Plat copieux de lentilles noires (Urad Dal) et de haricots rouges mijotés dans une sauce crémeuse à la tomate.",
+    "difficulté": "Moyen",
+    "ingrédients": [
+      "165 g de lentilles noires (Urad Dal), 50 g de haricots rouges (Rajma) - trempés la veille",
+      "3 c. à soupe de ghee (beurre clarifié) ou beurre",
+      "1 oignon haché, 3 gousses d'ail, 1 c. à café de gingembre frais râpé",
+      "2 tomates moyennes (réduites en purée) ou coulis de tomates, concentré de tomates",
+      "1/2 tasse de crème liquide",
+      "Épices : cumin, curcuma, garam masala, piment fort moulu (facultatif), cannelle, cardamome, laurier indien, sel"
+    ],
+    "préparation": "Faire tremper les lentilles et haricots la veille. Les cuire dans l'eau avec une feuille de laurier pendant environ 1 heure jusqu'à ce qu'ils soient tendres. Dans une poêle, faire dorer l'oignon dans le ghee/beurre, ajouter l'ail et le gingembre. Ajouter la purée de tomates et le concentré. Incorporer les épices. Ajouter les lentilles et haricots cuits avec une partie de l'eau de cuisson. Laisser mijoter à feu doux pendant 30 à 40 minutes, jusqu'à ce que le Dal épaississe. Ajouter la crème liquide en fin de cuisson. Servir chaud, éventuellement garni de feuilles de coriandre fraîche.",
+    "photo": "images/Dal-Makhani.webp"
+  },
+  {
+    "id": 24,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Végétarien",
+    "nomRecette": "Pâtes Cacio e Pepe (Végétarien)",
+    "pays": "Italie",
+    "description": "Un plat romain simple et célèbre à base de pecorino romano râpé (fromage), de poivre noir et d'eau de cuisson des pâtes.",
+    "difficulté": "Facile",
+    "ingrédients": [
+      "300 g de spaghetti (ou rigatoni)",
+      "200 g de Pecorino Romano (finement râpé)",
+      "15 g de poivre noir (fraîchement moulu)",
+      "Eau de cuisson des pâtes (l'amidon est essentiel)",
+      "Sel (pour l'eau de cuisson)"
+    ],
+    "préparation": "Râper finement le Pecorino Romano et le poivre. Torréfier ¾ du poivre moulu dans une poêle froide à feu moyen (pour libérer les arômes). Cuire les pâtes al dente dans de l'eau très salée. Conserver l'eau de cuisson riche en amidon. Transférer les pâtes mi-cuites dans la poêle avec le poivre torréfié. Ajouter une louche d'eau de cuisson. Retirer du feu, ajouter le Pecorino râpé et mélanger constamment et vigoureusement, en ajoutant de l'eau de cuisson au fur et à mesure, jusqu'à obtenir une sauce crémeuse et homogène (émulsion). Servir immédiatement, avec le reste de poivre et de Pecorino râpé.",
+    "photo": "images/Pates-cacio-e-pepe.webp"
+  },
+  {
+    "id": 25,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Végétarien",
+    "nomRecette": "Dolmades (Végétarien)",
+    "pays": "Turquie",
+    "description": "Feuilles de vigne farcies de riz assaisonné, d'herbes et parfois de pignons de pin, servies froides ou chaudes.",
+    "difficulté": "Moyen",
+    "ingrédients": [
+      "30 feuilles de vigne (fraîches ou en conserve)",
+      "100-125 g de riz rond (pour la farce)",
+      "1 oignon haché, pignons de pin, raisins secs",
+      "Herbes : Persil, Aneth, Menthe (hachées finement)",
+      "Jus de citron, huile d'olive",
+      "Bouillon de légumes ou eau, sel, poivre"
+    ],
+    "préparation": "Blanchir les feuilles de vigne (si fraîches) 3 minutes. Préparer la farce : faire revenir l'oignon, ajouter le riz, pignons de pin (et viande hachée si non végétarien). Ajouter les herbes, le jus de citron, le sel et un peu de bouillon. Laisser cuire jusqu'à absorption. Laisser refroidir. Disposer la farce sur le côté non brillant de chaque feuille de vigne. Rouler fermement. Disposer les dolmades serrés dans une casserole. Couvrir de bouillon/eau, d'huile d'olive et de jus de citron. Cuire à feu doux environ 20-25 minutes. Laisser refroidir avant de servir (traditionnellement).",
+    "photo": "images/Dolmades.webp"
+  },
+  {
+    "id": 26,
+    "categorie": "Plat Principal",
+    "sous-categorie": "Végétarien",
+    "nomRecette": "Chiles en Nogada (Végétarien)",
+    "pays": "Mexique",
+    "description": "Piments poblano farcis de fruits et de noix (sans viande), recouverts d'une sauce crémeuse aux noix (nogada) et de graines de grenade.",
+    "difficulté": "Difficile",
+    "ingrédients": [
+      "8 piments poblano",
+      "Farce : Oignon, ail, amandes, raisins secs, fruits frais (pêche, poire, pomme, plantain, coupés en dés)",
+      "Épices : cannelle, clous de girofle, poivre",
+      "Sauce Nogada : Noix de grenoble (pelées, trempées la veille), Crème (35%), Fromage à la crème ou Lait évaporé, Sucre/Lait condensé, Pincée de muscade",
+      "Garniture : Graines de grenade, persil frais haché"
+    ],
+    "préparation": "Griller les piments poblano jusqu'à ce que la peau noircisse, les laisser 'suer' dans un sac, puis les peler délicatement et retirer les graines. Préparer la farce : faire revenir oignon/ail, ajouter les épices moulues. Incorporer les amandes, raisins secs et fruits frais, cuire jusqu'à ce que les fruits soient tendres. Préparer la sauce Nogada : mixer les noix de grenoble (trempées), la crème, le fromage/lait, le sucre et la muscade. Farcir les piments avec le picadillo (farce). Napper généreusement de sauce nogada. Décorer avec les graines de grenade et le persil frais (les couleurs du drapeau mexicain).",
+    "photo": "images/Chiles-en-nogadas.webp"
+  },
+  {
+    "id": 27,
+    "categorie": "Dessert",
+    "sous-categorie": "Pâtisserie/Feuilleté",
+    "nomRecette": "Apfelstrudel (Strudel aux Pommes)",
+    "pays": "Allemagne",
+    "description": "Pâtisserie traditionnelle allemande et autrichienne composée d'une fine pâte enroulée autour d'une garniture aux pommes, raisins secs, cannelle et chapelure grillée. Servi tiède avec du sucre glace.",
+    "difficulté": "Moyen",
+    "ingrédients": [
+      "1 pâte feuilletée rectangulaire (ou pâte à strudel)",
+      "4 pommes (type Golden ou acidulée)",
+      "100 g de sucre",
+      "50 g de raisins secs",
+      "1 cuillère à café de cannelle",
+      "50 g de chapelure fine",
+      "40 g de beurre fondu",
+      "Jus d'un demi-citron",
+      "Sucre glace (pour saupoudrer)"
+    ],
+    "préparation": "Faire tremper les raisins secs (éventuellement dans du rhum). Peler, évider et couper les pommes en tranches fines. Les mélanger avec le jus de citron, le sucre, la cannelle et les raisins égouttés. Dans une poêle, faire dorer la chapelure avec une partie du beurre fondu. Étaler la pâte feuilletée. La badigeonner légèrement de beurre fondu, puis saupoudrer de la chapelure dorée. Répartir la garniture aux pommes sur la pâte. Rouler la pâte sur elle-même pour former un boudin (le strudel) et bien fermer les bords. Badigeonner le dessus du strudel avec le reste du beurre fondu. Enfourner à 180°C-200°C pendant 25 à 40 minutes, jusqu'à ce que la pâte soit bien dorée. Servir tiède, généreusement saupoudré de sucre glace.",
+    "photo": ""
+  },
+  {
+    "id": 28,
+    "categorie": "dessert",
+    "sous-categorie": "Chocolat",
+    "nomRecette": "Brownies au Fudge",
+    "pays": "États-Unis",
+    "description": "Carrés fondants et chocolatés, souvent accompagnés de noix ou de pépites de chocolat.",
+    "difficulté": "Facile",
+    "ingrédients": [
+      "200 g de chocolat noir",
+      "170-180 g de beurre non salé",
+      "180-200 g de mélange de sucre (cassonade et sucre blanc)",
+      "2-3 gros œufs",
+      "80 g de farine",
+      "70-80 g de cacao en poudre non sucré",
+      "1 c. à café d'extrait de vanille",
+      "Pincée de sel",
+      "Facultatif : 100 g de noix de pécan ou de pépites de chocolat"
+    ],
+    "préparation": "Préchauffer le four à 150°C. Faire fondre ensemble le chocolat noir et le beurre. Dans un autre bol, battre les œufs et les sucres jusqu'à ce que le mélange blanchisse. Incorporer le mélange chocolat/beurre fondu. Tamiser et ajouter les ingrédients secs (farine, cacao en poudre, sel) et mélanger juste assez. Ajouter les noix ou pépites de chocolat. Verser la pâte dans un moule carré graissé. Cuire au four pendant 45 minutes (adapter la cuisson pour un centre encore légèrement humide et 'fudgy'). Laisser refroidir complètement avant de couper en carrés.",
+    "photo": "images/Brownies-au-fudge.webp"
+  },
+  {
+    "id": 29,
+    "categorie": "Dessert",
+    "sous-categorie": "Confiserie",
+    "nomRecette": "Brigadeiro",
+    "pays": "Brésil",
+    "description": "Bouchées de chocolat brésiliennes, très populaires lors des fêtes. Elles sont préparées à base de lait concentré sucré, de cacao et de beurre, puis roulées dans des vermicelles de chocolat.",
+    "difficulté": "Très facile",
+    "ingrédients": [
+      "400 g de lait concentré sucré (1 boîte)",
+      "30 g de cacao en poudre (non sucré)",
+      "20 g de beurre",
+      "Vermicelles de chocolat (pour l'enrobage)"
+    ],
+    "préparation": "Dans une casserole, faire fondre le beurre à feu doux. Ajouter le lait concentré sucré et le cacao en poudre. Mélanger constamment avec une cuillère en bois jusqu'à ce que le mélange épaississe et se détache du fond de la casserole (environ 10 à 15 minutes). Verser la préparation dans un plat et laisser refroidir complètement (vous pouvez couvrir la surface de film alimentaire beurré). Une fois froid, graisser les mains avec du beurre et former des petites boules (truffes). Rouler chaque boule dans les vermicelles de chocolat. Placer dans des caissettes en papier et réfrigérer jusqu'au moment de servir.",
+    "photo": ""
+  },
+  {
+    "id": 30,
+    "categorie": "dessert",
+    "sous-categorie": "Fruits secs",
+    "nomRecette": "Baklava",
+    "pays": "Turquie",
+    "description": "Pâtisserie feuilletée sucrée, remplie de noix hachées et maintenue par un sirop de miel ou de sucre.",
+    "difficulté": "Facile",
+    "ingrédients": [
+      "12-15 feuilles de pâte Filo",
+      "150 g de beurre fondu (ou ghee)",
+      "Farce : 400-500 g de mélange de noix, amandes et pistaches (hachées), 50 g de sucre, 1 c. à café de cannelle (Facultatif : eau de fleur d'oranger)",
+      "Sirop : 300 g de sucre, 200 g de miel, 200 ml d'eau, jus d'un citron (Facultatif : cannelle, badiane)"
+    ],
+    "préparation": "Préparer le sirop : faire bouillir l'eau, le sucre, le miel et le citron pendant 3-4 minutes, puis laisser refroidir. Préparer la farce en mélangeant les fruits secs hachés, le sucre et la cannelle. Monter le Baklava dans un moule beurré : superposer 5 à 7 feuilles de pâte Filo, en badigeonnant chaque feuille de beurre fondu. Répartir la moitié de la farce. Répéter l'opération (feuilles beurrées + reste de farce + feuilles beurrées). Découper des losanges ou carrés avant la cuisson. Cuire au four à 180°C pendant 30-35 minutes jusqu'à dorure. Verser le sirop froid sur le Baklava chaud dès la sortie du four. Laisser refroidir et imbiber (idéalement 1 jour) avant de servir.",
+    "photo": "images/Baklava.webp"
+  },
+  {
+    "id": 31,
+    "categorie": "dessert",
+    "sous-categorie": "Café",
+    "nomRecette": "Tiramisu",
+    "pays": "Italie",
+    "description": "Dessert crémeux à base de biscuits à la cuillère trempés dans du café, de mascarpone et saupoudré de cacao.",
+    "difficulté": "Facile",
+    "ingrédients": [
+      "500 g de mascarpone",
+      "5 œufs extra frais (séparer les blancs et les jaunes)",
+      "5 c. à soupe de sucre (ou 50g)",
+      "250 g de biscuits à la cuillère (Savoiardi)",
+      "200 ml de café fort (non sucré et froid)",
+      "Cacao en poudre non sucré (pour saupoudrer)",
+      "Facultatif : 1 c. à soupe de Marsala (ou autre liqueur)"
+    ],
+    "préparation": "Dans un bol, battre les jaunes d'œufs avec le sucre jusqu'à ce que le mélange blanchisse. Ajouter le mascarpone et le Marsala, mélanger. (Monter les blancs en neige ferme avec une pincée de sel, puis les incorporer délicatement au mélange mascarpone). Tremper rapidement les biscuits à la cuillère dans le café froid. Monter le Tiramisu dans un plat : une couche de biscuits imbibés, une couche de crème au mascarpone. Répéter l'opération. Réserver au réfrigérateur pendant 4 heures minimum (idéalement 24h). Avant de servir, saupoudrer généreusement de cacao amer en poudre.",
+    "photo": "images/Tiramisu.webp"
+  },
+  {
+    "id": 32,
+    "categorie": "dessert",
+    "sous-categorie": "Riz",
+    "nomRecette": "Mochi",
+    "pays": "Japon",
+    "description": "Pâtisserie japonaise faite de riz gluant (mochiko) transformé en une pâte élastique, souvent farcie (Anko, glace, etc.).",
+    "difficulté": "Facile",
+    "ingrédients": [
+      "80 g de farine de riz gluant (Shiratamako ou Mochiko)",
+      "70 g de sucre blanc ou glace",
+      "160 ml d'eau",
+      "Fécule de maïs (pour étaler)",
+      "Garniture : Pâte de haricots rouges sucrée (Anko) ou Boules de glace (vanille, matcha)"
+    ],
+    "préparation": "Mélanger la farine de riz gluant et le sucre. Ajouter l'eau progressivement et mélanger pour obtenir une pâte homogène. Couvrir le bol de film alimentaire et cuire au micro-ondes (1 min 30 à 850w). Mélanger grossièrement et réchauffer 1 minute. Fariner le plan de travail avec la fécule de maïs. Étaler la pâte élastique et la couper en morceaux. Aplatir chaque morceau, placer une boule de garniture (Anko ou glace) au centre. Refermer la pâte et pincer les bords pour sceller. Pour les mochis glacés, congeler les boules de glace avant de les enrober. Servir frais.",
+    "photo": "images/Mochi.webp"
+  }
+  
+  
+]
