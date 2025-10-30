@@ -97,7 +97,7 @@ body {
     background-color: white;
     width: 700px; 
     max-width: 48%; 
-    height: 30vh; 
+    height: 35vh;
     border: none;
     border-radius: 16px;
     overflow: hidden;
@@ -118,7 +118,8 @@ body {
     display: flex;
     flex-direction: column;
     flex-grow: 1; 
-    padding: 2px; 
+    padding: 2px;
+    margin-bottom: 10px;
     min-width: 0; 
 }
 
