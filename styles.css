@@ -25,10 +25,20 @@ body {
     font-weight: 500;
 }
 
+#header p {
+    font-family: Aladin Regular;
+    text-align: justify;
+    font-size: 1.5rem;
+    margin-top: 10px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #filter {
     background-color: #E0E0C6;
-    padding: 20px 50px;
-    margin-bottom: 30px; 
+    padding: 50px 50px;
+    margin-bottom: 50px; 
 }
 
 #filter form {
@@ -275,5 +285,26 @@ body {
     
     .recipe-card > img {
         height: 180px; 
+    }
+
+    .card-meta {
+        flex-direction: column; 
+        align-items: flex-start; 
+        padding: 10px;
+    }
+
+    .country, .difficulty {
+        max-width: 100%; 
+        white-space: normal;
+        overflow: visible; 
+        text-overflow: clip;
+        margin-bottom: 5px; 
+    }
+
+    .card-button {
+        width: 100%; 
+        text-align: center;
+        margin-top: 10px;
+        box-sizing: border-box;
     }
 }

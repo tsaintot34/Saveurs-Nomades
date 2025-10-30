@@ -26,7 +26,7 @@ function displayRecettes(recettes) {
                         </div>
                     </div>
                     <div class="card-body"> 
-                        <div id="card-meta">
+                        <div class="card-meta">
                             <p class="country"><strong>Pays :</strong> ${recette.pays}</p>
                             <p class="difficulty"><strong>Difficulté:</strong> ${recette.difficulté}</p>
                             <button class="card-button" data-recipe-id="${recette.id}">Voir la recette</button>
