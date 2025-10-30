@@ -258,10 +258,32 @@ body {
     }
     
     .card-meta {
-        display: flex;
         flex-direction: row; 
-        justify-content: space-around;
-        padding-left: 10px;
+        justify-content: space-between;
+        flex-wrap: nowrap;
+        align-items: center;
+        padding: 0 10px; 
+        margin-bottom: 10px;
+    }
+
+    .country, .difficulty {
+        max-width: 30%; 
+        white-space: nowrap; 
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin-right: 5px; 
+    }
+    
+    .card-button {
+        flex-shrink: 0;
+    }
+
+    .ingredients {
+        border-right: none;
+        border-bottom: 1px solid #eee;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
     }
 
     .detail-item {
